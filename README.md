@@ -39,17 +39,3 @@ Example endpoint: /api/hello
 Located at: pages/api/hello.js
 
 Learn more: API Routes Documentation
-
-📚 Learn More
-Here are some great resources to dive deeper into Next.js:
-
-📘 Next.js Documentation
-
-🎓 Interactive Next.js Tutorial
-
-🛠 Next.js GitHub Repo
-
-🚀 Deployment
-Deploy your app with ease using Vercel, the creators of Next.js.
-
-📖 Read the Next.js deployment guide for other options and best practices.
